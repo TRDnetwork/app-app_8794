@@ -1,0 +1,2 @@
+-- No database required for static portfolio with form handler
+-- Contact form handled via Resend through serverless function
