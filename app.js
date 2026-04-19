@@ -1,0 +1,1 @@
+// This file is not used. React app is in main.tsx and App.tsx.
